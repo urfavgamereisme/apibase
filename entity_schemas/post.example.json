@@ -1,0 +1,8 @@
+{
+    "name": "posts",
+    "attributes": {
+        "title": {"type": "text"},
+        "content": {"type": "text"},
+        "length": {"type": "number"}
+    }
+}
